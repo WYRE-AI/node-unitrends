@@ -5,7 +5,7 @@ Thanks for your interest in contributing to `node-unitrends`.
 ## Development setup
 
 ```bash
-git clone https://github.com/wyre-technology/node-unitrends.git
+git clone https://github.com/WYRE-AI/node-unitrends.git
 cd node-unitrends
 npm install
 npm test

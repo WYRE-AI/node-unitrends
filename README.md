@@ -1,4 +1,4 @@
-# @wyre-technology/node-unitrends
+# @wyre-ai/node-unitrends
 
 Comprehensive, fully-typed Node.js / TypeScript client library for the
 Unitrends Backup REST API.
@@ -19,20 +19,20 @@ Unitrends Backup REST API.
 ## Install
 
 ```bash
-npm install @wyre-technology/node-unitrends
+npm install @wyre-ai/node-unitrends
 ```
 
-The package is published to GitHub Packages under the `@wyre-technology` scope.
+The package is published to GitHub Packages under the `@wyre-ai` scope.
 Add this to a project-local `.npmrc`:
 
 ```
-@wyre-technology:registry=https://npm.pkg.github.com
+@wyre-ai:registry=https://npm.pkg.github.com
 ```
 
 ## Quick start
 
 ```typescript
-import { UnitrendsClient } from '@wyre-technology/node-unitrends';
+import { UnitrendsClient } from '@wyre-ai/node-unitrends';
 
 const client = new UnitrendsClient({
   baseUrl:  'https://backup.example.com/api',
@@ -156,7 +156,7 @@ import {
   UnitrendsNotFoundError,
   UnitrendsRateLimitError,
   UnitrendsServerError,
-} from '@wyre-technology/node-unitrends';
+} from '@wyre-ai/node-unitrends';
 
 try {
   await client.assets.get(123);

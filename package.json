@@ -1,5 +1,5 @@
 {
-  "name": "@wyre-technology/node-unitrends",
+  "name": "@wyre-ai/node-unitrends",
   "version": "1.0.2",
   "type": "module",
   "publishConfig": {
@@ -52,12 +52,12 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wyre-technology/node-unitrends.git"
+    "url": "git+https://github.com/WYRE-AI/node-unitrends.git"
   },
   "bugs": {
-    "url": "https://github.com/wyre-technology/node-unitrends/issues"
+    "url": "https://github.com/WYRE-AI/node-unitrends/issues"
   },
-  "homepage": "https://github.com/wyre-technology/node-unitrends#readme",
+  "homepage": "https://github.com/WYRE-AI/node-unitrends#readme",
   "engines": {
     "node": ">=22.0.0"
   },

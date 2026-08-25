@@ -4,9 +4,9 @@ Node.js/TypeScript SDK for the Unitrends Backup REST API.
 
 ## Project info
 
-- **GitHub**: https://github.com/wyre-technology/node-unitrends
-- **Package**: `@wyre-technology/node-unitrends` (GitHub Packages)
-- **Sister SDK**: [`node-datto-bcdr`](https://github.com/wyre-technology/node-datto-bcdr) — same overall architecture, different auth model (HMAC instead of session tokens).
+- **GitHub**: https://github.com/WYRE-AI/node-unitrends
+- **Package**: `@wyre-ai/node-unitrends` (GitHub Packages)
+- **Sister SDK**: [`node-datto-bcdr`](https://github.com/WYRE-AI/node-datto-bcdr) — same overall architecture, different auth model (HMAC instead of session tokens).
 
 ## Architecture
 

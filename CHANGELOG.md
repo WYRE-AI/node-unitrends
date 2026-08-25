@@ -1,23 +1,23 @@
-## [1.0.2](https://github.com/wyre-technology/node-unitrends/compare/v1.0.1...v1.0.2) (2026-06-22)
+## [1.0.2](https://github.com/WYRE-AI/node-unitrends/compare/v1.0.1...v1.0.2) (2026-06-22)
 
 
 ### Bug Fixes
 
-* **tsconfig:** restore include/exclude globs ([#32](https://github.com/wyre-technology/node-unitrends/issues/32)) ([662d015](https://github.com/wyre-technology/node-unitrends/commit/662d015bc3598719b828d12ac322d652c03569d8))
+* **tsconfig:** restore include/exclude globs ([#32](https://github.com/WYRE-AI/node-unitrends/issues/32)) ([662d015](https://github.com/WYRE-AI/node-unitrends/commit/662d015bc3598719b828d12ac322d652c03569d8))
 
-## [1.0.1](https://github.com/wyre-technology/node-unitrends/compare/v1.0.0...v1.0.1) (2026-05-20)
+## [1.0.1](https://github.com/WYRE-AI/node-unitrends/compare/v1.0.0...v1.0.1) (2026-05-20)
 
 
 ### Bug Fixes
 
-* correct packaging exports so .cjs/.d.cts resolve ([#2](https://github.com/wyre-technology/node-unitrends/issues/2)) ([c8adae9](https://github.com/wyre-technology/node-unitrends/commit/c8adae9dd3ba71f790f0c0268364bc55a6ea2974))
+* correct packaging exports so .cjs/.d.cts resolve ([#2](https://github.com/WYRE-AI/node-unitrends/issues/2)) ([c8adae9](https://github.com/WYRE-AI/node-unitrends/commit/c8adae9dd3ba71f790f0c0268364bc55a6ea2974))
 
 # 1.0.0 (2026-05-01)
 
 
 ### Features
 
-* initial SDK scaffold for Unitrends Backup REST API ([c45d0e3](https://github.com/wyre-technology/node-unitrends/commit/c45d0e32be1f731f5c68485f6373a3659ba79175))
+* initial SDK scaffold for Unitrends Backup REST API ([c45d0e3](https://github.com/WYRE-AI/node-unitrends/commit/c45d0e32be1f731f5c68485f6373a3659ba79175))
 
 # Changelog
 

@@ -22,7 +22,7 @@ import { ReportsResource } from './resources/reports.js';
  *
  * @example
  * ```typescript
- * import { UnitrendsClient } from '@wyre-technology/node-unitrends';
+ * import { UnitrendsClient } from '@wyre-ai/node-unitrends';
  *
  * const client = new UnitrendsClient({
  *   baseUrl:  'https://backup.example.com/api',

@@ -1,5 +1,5 @@
 /**
- * @wyre-technology/node-unitrends
+ * @wyre-ai/node-unitrends
  *
  * Comprehensive, fully-typed Node.js/TypeScript library for the
  * Unitrends Backup REST API.
