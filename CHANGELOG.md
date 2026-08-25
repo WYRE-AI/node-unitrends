@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/WYRE-AI/node-unitrends/compare/v1.0.2...v1.0.3) (2026-08-25)
+
+
+### Bug Fixes
+
+* migrate to WYRE-AI org (npm scope, ghcr namespace, registry) ([#48](https://github.com/WYRE-AI/node-unitrends/issues/48)) ([17ea5d5](https://github.com/WYRE-AI/node-unitrends/commit/17ea5d511669d424509d4503ff475626d1c733a1))
+
 ## [1.0.2](https://github.com/WYRE-AI/node-unitrends/compare/v1.0.1...v1.0.2) (2026-06-22)
 
 
